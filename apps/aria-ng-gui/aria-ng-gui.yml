@@ -1,0 +1,14 @@
+name: 'AriaNgGUI'
+description: 'An Aria2 GUI for Windows & Linux & MacOS.'
+website: 'https://aria-ng.xmader.com/'
+category: Utilities
+repository: 'https://github.com/Xmader/aria-ng-gui'
+keywords:
+    - download
+    - downloader
+    - aria2
+    - aria2-gui
+npmPackageName: aria-ng-gui
+license: MIT
+locales:
+  - zh-CN
